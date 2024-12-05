@@ -18,9 +18,9 @@ const About = () => {
         <section>
           <h2>Quem Somos?</h2>
           <p>
-            Somos uma equipe apaixonada por transformar vidas por meio da prática de
-            exercícios físicos personalizados e orientados por profissionais
-            qualificados!
+            Somos uma equipe apaixonada por transformar vidas por meio da
+            prática de exercícios físicos personalizados e orientados por
+            profissionais qualificados!
           </p>
           <img
             src="/img/team.jpg"
