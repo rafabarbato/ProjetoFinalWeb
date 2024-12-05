@@ -8,7 +8,7 @@ const About = () => {
     <div className="main">
       <Header />
       <main className="main-about">
-        <h1>Sobre Nós</h1>
+        <h1>Sobre Nós:</h1>
         <p>
           Na Personal Fit, acreditamos que cada pessoa tem potencial para
           alcançar seus objetivos de saúde e bem-estar. Nossa missão é
@@ -18,16 +18,16 @@ const About = () => {
         <section>
           <h2>Quem Somos?</h2>
           <p>
-            Uma equipe apaixonada por transformar vidas por meio da prática de
+            Somos uma equipe apaixonada por transformar vidas por meio da prática de
             exercícios físicos personalizados e orientados por profissionais
-            qualificados.
+            qualificados!
           </p>
           <img
             src="/img/team.jpg"
             alt="Equipe Personal Fit"
             style={{
               width: "100%",
-              borderRadius: "10px",
+              borderRadius: "12px",
               marginTop: "20px",
             }}
           />
