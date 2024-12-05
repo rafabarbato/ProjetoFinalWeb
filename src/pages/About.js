@@ -38,6 +38,7 @@ const About = () => {
             Ser referência no mercado de serviços fitness, promovendo saúde,
             confiança e resultados duradouros para nossos clientes.
           </p>
+          <p>Faça parte do time PersonalFit</p>
         </section>
       </main>
       <Footer />
