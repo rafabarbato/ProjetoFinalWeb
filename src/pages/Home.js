@@ -16,7 +16,7 @@ function Home() {
         <img
           src="/img/fitness.jpg"
           alt="Imagem inspiradora de fitness"
-          style={{ width: "100%", borderRadius: "10px", marginBottom: "20px" }}
+          style={{ width: "100%", borderRadius: "10px" }}
         />
         <section>
           <h2>Por que escolher nossos serviços?</h2>

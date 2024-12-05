@@ -8,9 +8,14 @@ const Header = () => {
       <nav className="hnavbar">
         <ul className="hmenu">
           <li className="hmenu-logo">
-            <Link to="/" className="logo">
+            <div className="logo">
+              <img
+                src="./svg/fiticonwhite.svg"
+                alt="Logo"
+                className="logo-icon"
+              />
               Personal Fit
-            </Link>
+            </div>
           </li>
           <li className="hmenu-item">
             <Link to="/" className="home">
